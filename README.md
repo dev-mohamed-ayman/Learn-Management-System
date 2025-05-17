@@ -1,5 +1,3 @@
-This project is your graduation project—a modern web application built with the Laravel PHP framework. It provides user authentication, supports multiple languages, and offers real-time user interfaces using Livewire. The system integrates with Zoom for video features and uses Toastr for notifications. It is designed to be modular, testable, and maintainable, using Composer for PHP dependencies and npm for JavaScript assets. The application is suitable for deployment on any server supporting PHP 8.1+ and MySQL or a compatible database.
-
 # Laravel Web Application
 
 A modern web application built with [Laravel](https://laravel.com/), PHP, and JavaScript.
