@@ -26,8 +26,8 @@ A modern web application built with [Laravel](https://laravel.com/), PHP, and Ja
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
-   cd <project-directory>
+   git clone https://github.com/dev-mohamed-ayman/Learn-Management-System.git
+   cd Learn-Management-System
    ```
 
 2. Install PHP dependencies:
@@ -81,4 +81,4 @@ Pull requests are welcome. For major changes, please open an issue first.
 This project is open-sourced under the [MIT license](https://opensource.org/licenses/MIT).
 ```
 
-Replace `<your-repo-url>` and `<project-directory>` as needed. This file summarizes your stack, setup, and usage.
+Replace `https://github.com/dev-mohamed-ayman/Learn-Management-System.git` and `Learn-Management-System` as needed. This file summarizes your stack, setup, and usage.
