@@ -2,7 +2,7 @@ This project is your graduation project—a modern web application built with th
 ```markdown
 # Laravel Web Application
 
-A modern web application built with [Laravel](https://laravel.com/), PHP, and JavaScript.
+A modern web application built with `[Laravel](https://laravel.com/)`, PHP, and JavaScript.
 
 ## Features
 
