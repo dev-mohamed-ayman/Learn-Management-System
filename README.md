@@ -2,8 +2,6 @@
 
 A modern web application built with [Laravel](https://laravel.com/), PHP, and JavaScript.
 
-```markdown
-
 ## Features
 
 - Laravel 10.x framework
@@ -67,6 +65,7 @@ A modern web application built with [Laravel](https://laravel.com/), PHP, and Ja
 ## Testing
 
 Run the test suite with:
+
 ```bash
 php artisan test
 ```
@@ -78,6 +77,6 @@ Pull requests are welcome. For major changes, please open an issue first.
 ## License
 
 This project is open-sourced under the [MIT license](https://opensource.org/licenses/MIT).
-```
 
-Replace `https://github.com/dev-mohamed-ayman/Learn-Management-System.git` and `Learn-Management-System` as needed. This file summarizes your stack, setup, and usage.
+Replace `https://github.com/dev-mohamed-ayman/Learn-Management-System.git` and `Learn-Management-System` as needed. This
+file summarizes your stack, setup, and usage.
